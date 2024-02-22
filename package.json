@@ -1,0 +1,16 @@
+{
+  "name": "recipewebapp_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd fireside-feasts-backend && npm install",
+    "start-server": "cd fireside-feasts-backend && node app.js",
+    "install-client": "cd fireside-feasts-frontend && npm install",
+    "build-client": "cd fireside-feasts-frontend && npm run build",
+    "start-client": "cd fireside-feasts-frontend && npm run start"
+  },
+  "keywords": [],
+  "author": "aneesh-malapaka",
+  "license": "ISC"
+}
